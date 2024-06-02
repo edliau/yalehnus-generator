@@ -1,0 +1,10 @@
+.dm-sans-main {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 8;
+    font-style: normal;
+}
+
+body {
+    font-family: 'DM Sans', sans-serif;
+}
